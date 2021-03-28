@@ -1,0 +1,14 @@
+{
+    "baseUrl": "http://www.webdriveruniversity.com/",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1400,
+    "viewportHeight": 1050,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 65000,
+    "env": {
+        "webdriver_HomePage": "http://www.webdriveruniversity.com/",
+        "webdriver_ContactUsPage": "Contact-Us/contactus.html",
+        "webdriver_DropdownMenu-CheckBoxes-RadiButton": "Dropdown-Checkboxes-RadioButtons/index.html",
+        "first_Name": "Sarah"
+    }
+}
